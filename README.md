@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hari haran V.S
-- 👀 I’m interested in Reactjs
 - 🌱 I’m currently working at zoho corporation
 - 📫 Reach me @ v.s.hariharan94@gmail.com
 
